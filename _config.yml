@@ -481,8 +481,8 @@ pangu: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: True
+  shortname: jimdevblog
   count: true
   lazyload: false
 
